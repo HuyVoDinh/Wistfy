@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+}
+.header{
+    height: 50px;
+    background-color:aquamarine;
+}
+
+.avatar {
+    margin-left: 200px;
+}
+
+.description {
+   width: 650px;
+   margin-left: 100px;
+   padding-top: 30px;
+}
+
+.img-avatar {
+     width: 30%;
+     float: left;
+}
+
